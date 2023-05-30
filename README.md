@@ -1,4 +1,4 @@
-#Code_Student
+# Code Student
 Olá!
 
 Este é um pequeno programa que desenvolvi para calcular a nota final de um estudante em um ano letivo dividido em três trimestres, cada um com valor total de 100 pontos.
